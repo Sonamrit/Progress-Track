@@ -27,14 +27,13 @@ function Hello() {
 export default Hello;
 
 
-
-## 🧠 Key Points
+🧠 Key Points
 Use className instead of class in JSX.
 
 JSX allows you to use all the power of JavaScript inside UI code.
 
 It improves readability and allows writing UI in a declarative way.
 
-## 💡 Conclusion
+💡 Conclusion
 JSX is not required in React, but it makes writing React components much easier and cleaner.
 Today, I understood the basics of JSX and how to use it in a simple React component.
